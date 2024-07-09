@@ -1,5 +1,8 @@
 # Digital System Design Laboratory
 
+
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
 This repository contains **10 projects in Verilog** that I completed during my Digital System Design lab course.
 Each project has a corresponding report that describes its implementation. The project descriptions are available in the `report.pdf` file.
 
