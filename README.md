@@ -7,9 +7,10 @@ Each project has a corresponding report that describes its implementation. The p
 ## Project Descriptions
 
 1. **Project E1**: [Brief description of E1 project]
-2. **Project E2**: designing sequential circuits with schematic facilities.
+2. **Project E2**: Sequential circuits with schematic facilities
 3. **Project E3**: [Brief description of E3 project]
-   - Pay special attention to the third project's README file.
+4. **Project E4**: Building a stack
+   - 4-bit stack with the capacity of 8 entries.
 
 ## Getting Started
 
