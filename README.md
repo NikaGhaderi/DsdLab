@@ -14,6 +14,7 @@ Each project has a corresponding report that describes its implementation. The p
 6. **Project E6**: Incubator
 8. **Project E8**: Complex number arithmetic in an ALU
 9. **Project E9**: Tcam memory
+10. **Project E10**: Simple processor
 ## Getting Started
 
 1. Clone this repository to your local machine.
