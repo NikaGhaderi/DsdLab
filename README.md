@@ -11,7 +11,7 @@ Each project has a corresponding report that describes its implementation. The p
 3. **Project E3**: [Brief description of E3 project]
 4. **Project E4**: Building a stack
    - 4-bit stack with the capacity of 8 entries.
-
+6. **Project E6**: Incubator
 ## Getting Started
 
 1. Clone this repository to your local machine.
