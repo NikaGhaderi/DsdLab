@@ -11,6 +11,7 @@ Each project has a corresponding report that describes its implementation. The p
 3. **Project E3**: Cascadable 1-bit comparator
 4. **Project E4**: Stack
    - 4-bit stack with the capacity of 8 entries.
+5. **Project E5**: Multiplier using Booth algorithm
 6. **Project E6**: Incubator
 8. **Project E8**: Complex number arithmetic in an ALU
 9. **Project E9**: Tcam memory
