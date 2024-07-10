@@ -8,7 +8,7 @@ Each project has a corresponding report that describes its implementation. The p
 
 1. **Project E1**: Examining the divisibility of numbers by 3 and 11
 2. **Project E2**: Sequential circuits with schematic facilities
-3. **Project E3**: [Brief description of E3 project]
+3. **Project E3**: Cascadable 1-bit comparator
 4. **Project E4**: Stack
    - 4-bit stack with the capacity of 8 entries.
 6. **Project E6**: Incubator
