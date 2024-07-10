@@ -13,6 +13,7 @@ Each project has a corresponding report that describes its implementation. The p
    - 4-bit stack with the capacity of 8 entries.
 5. **Project E5**: Multiplier using Booth algorithm
 6. **Project E6**: Incubator
+7. **Project E7**: UART
 8. **Project E8**: Complex number arithmetic in an ALU
 9. **Project E9**: Tcam memory
 10. **Project E10**: Simple processor
