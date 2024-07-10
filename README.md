@@ -6,7 +6,7 @@ Each project has a corresponding report that describes its implementation. The p
 
 ## Project Descriptions
 
-1. **Project E1**: [Brief description of E1 project]
+1. **Project E1**: Examining the divisibility of numbers by 3 and 11
 2. **Project E2**: Sequential circuits with schematic facilities
 3. **Project E3**: [Brief description of E3 project]
 4. **Project E4**: Stack
